@@ -17,7 +17,7 @@ html {
 }
 
 .topSection {
-  background-image: url(/images/banner-bg1.png);
+  background-image: url(./assets/banner-bg1.png);
   background-size: cover;
   background-position: left;
   height: auto;
